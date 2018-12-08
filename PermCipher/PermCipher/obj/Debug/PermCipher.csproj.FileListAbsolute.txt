@@ -1,0 +1,10 @@
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab1\PermCipher\PermCipher\bin\Debug\PermCipher.exe.config
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab1\PermCipher\PermCipher\bin\Debug\PermCipher.exe
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab1\PermCipher\PermCipher\bin\Debug\PermCipher.pdb
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab1\PermCipher\PermCipher\obj\Debug\PermCipher.csprojAssemblyReference.cache
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab1\PermCipher\PermCipher\obj\Debug\PermCipher.Form1.resources
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab1\PermCipher\PermCipher\obj\Debug\PermCipher.Properties.Resources.resources
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab1\PermCipher\PermCipher\obj\Debug\PermCipher.csproj.GenerateResource.cache
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab1\PermCipher\PermCipher\obj\Debug\PermCipher.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab1\PermCipher\PermCipher\obj\Debug\PermCipher.exe
+C:\Users\Rafał\Desktop\studia\semestr V\POD\lab\lab1\PermCipher\PermCipher\obj\Debug\PermCipher.pdb
